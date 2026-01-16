@@ -1,9 +1,10 @@
 project:
   type: website
-  output-dir: C:/Users/melser/Documents/GitHub/E-Portfolio
+  output-dir: C:/Users/momawlod.stu/OneDrive - UBC/Desktop/GEM599/github/portfolio/E-Portfolio-MGEM
+  
 
 website:
-  title: "Your E-Portfolio"
+  title: "My Portfolio"
   navbar:
     left:
       - href: index.qmd
