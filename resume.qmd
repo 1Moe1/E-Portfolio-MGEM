@@ -7,26 +7,11 @@ title: "Resume"
 -   MSc of Geomatics for Environmental Management (University of British Columbia).
 -   Bsc in Surveying & Geomatics Engineering (University of Khartoum).
 
-# Publications
-
-*Peer-reviewed publications:*
-
--   List any peer-reviewed publications here.
-
-*Reports:*
-
--   List any non-peer reviewed materials you'd like to share here.
-
-# Conferences & Talks
-
-*Invited Talks*
-
--   If you've been invited to speak in a professional setting, list that here.
-
 
 # Awards & Honors
 
--   List any scholarships, bursaries, etc.
+-   Best academic performance in the Department of surveying and Geomatics engineering, University of Khartoum.
+-   Best graduation project in the department of Surveying & Geomatics Engineering, University of Khartoum.
 
 # Teaching Assistantships
 
@@ -34,4 +19,7 @@ title: "Resume"
 
 # Institutional Service
 
--   Volunteering etc.
+-   Volunteer mapper (URISA GISCorps).
+-   Aseel Foundation (volunteer GIS Analyst).
+-   Humanitarian Open Street Map (Volunteer mapper).
+-   Volunteer Translator.
