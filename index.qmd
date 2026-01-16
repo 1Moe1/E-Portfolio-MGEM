@@ -19,8 +19,9 @@ about:
       href: mailto:momawlod@student.ubc.ca
 ---
 
-Hey there people,
+Hey there,
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
+This is an attempt to create my portfolio using Quarto. yaaay!
 
-Write something about myself, very exciting.
+So, I am currently doing my msc (geomatics for environmental management) at the University of British Columbia. As of now, this msc exposed my to lots of things in geomatics, really interesting things that I am using to build on my skills.
+
